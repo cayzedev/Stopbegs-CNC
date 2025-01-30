@@ -18,6 +18,7 @@ idiot. :)
   > You may need to allow localhost to connect if you do not allow remote connections here is a command that should allow you to whitelist yourself 
   > 
   > `$ mysql -u USERNAME -pSECRET_PASSWORD mysql -e "grant ALL on *.* to USERNAME@'localhost' IDENTIFIED by 'SECRET_PASSWORD';"`
+   > `$ use my mysql "CREATE DATABASE xdlol;`
 
   > If you have too many file descriptors open change to however much you need
   > 
@@ -25,7 +26,10 @@ idiot. :)
   > 
   *that's all there is too it folks*
 
-- second step - customize!
-  go ahead you're already good to go!
+- second step - Login!
+  SSH on port : 999 
+  it will print a password for u to use
+  
+- Thrid step - Customize!
 
 *original made in a week flat*
