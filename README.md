@@ -1,7 +1,5 @@
 # Xpert CNC
 
-If you think this is a backdoor please submit the proof as an issue or fork to this repository otherwise fuck off, sincerely Xpert.
-
 2500 Lines of code and counting
 
 Non profit c2 for all you wanting something to 
