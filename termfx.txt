@@ -1,4 +1,4 @@
-CNC:
+CnC:
 <<$cnc.Usedslots>> - used slots in this moment
 <<$cnc.Totalslots>> - total cnc slots from config
 <<$cnc.Online>> - online users count
