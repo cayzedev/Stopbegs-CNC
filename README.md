@@ -1,13 +1,9 @@
-# Xpert CNC
+# Katana's CNC
+Since stopbegs, likes to lie & try to expose people. I've make the decision to leak all his files & etc. Here's his expose channel. 
+https://t.me/stopbegsexpose & His CNC is just a skid of water cnc and stopbegs nor his owners know how to code!
 
-2500 Lines of code and counting
+Message's Below on how to set it up!
 
-Non profit c2 for all you wanting something to 
-get off of the ground and start your projects.
-Don't annoy or complain to others that they are
-using a free c2. Why should anyone pay for 
-something that's free. you just look like an 
-idiot. :)
 
 - first step - mysql
 
